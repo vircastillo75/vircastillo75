@@ -10,7 +10,14 @@ Lideré el desarrollo de una aplicación web interactiva centrada en países y s
 
 ### Creación de una E-commerce de indumentaria deportiva - Pinkpanther
 
-Participé activamente en el equipo de desarrollo de una aplicación E-commerce para un cliente real en el sector de indumentaria deportiva. Esta plataforma proporciona a los usuarios una experiencia de compra completa y fluida, junto con herramientas de administración para el personal interno. Características Destacadas: Acceso de Usuario: Autenticación, carrito de compras y notificaciones; funcionalidades de Compra: integración con Mercado Pago; gestión de Productos: panel de administración intuitivo. Gestión de proyectos: GitFlow para un control de versiones eficiente; Trello para la gestión de tareas y seguimiento del progreso del proyecto.
+Participé activamente en el equipo de desarrollo de una aplicación E-commerce para un cliente real en el sector de indumentaria deportiva. Esta plataforma proporciona a los usuarios una experiencia de compra completa y fluida, junto con herramientas de administración para el personal interno.
+
+Características Destacadas: 
+
+* Acceso de Usuario: Autenticación, carrito de compras y notificaciones.
+* Funcionalidades de Compra: integración con Mercado Pago.
+* Gestión de Productos: panel de administración intuitivo.
+* Gestión de Proyectos: GitFlow para un control de versiones eficiente; Trello para la gestión de tareas y seguimiento del progreso del proyecto.
 
 Resultados y Logros
 
