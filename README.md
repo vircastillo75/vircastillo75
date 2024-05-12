@@ -1,5 +1,4 @@
-![Full Stack Developer](https://swansoftwaresolutions.com/wp-content/uploads/2020/04/05.14.20-Meet-a-Full-Stack-Developer-Vlad-Ryba.jpg)
-# María Virginia Castillo - Full Stack Developer
+## QUIEN SOY.
 
 ¡Hola! Soy María Virginia Castillo, Abogada convertida en Full Stack Developer. Mi pasión por la resolución de problemas y la creación de soluciones innovadoras me ha llevado a explorar el mundo del desarrollo de software. Mi experiencia en una amplia gama de tecnologías me permite ofrecer soluciones completas tanto en el lado del servidor como en el lado del cliente.
 
@@ -9,8 +8,11 @@ Desarrollé de una aplicación web interactiva centrada en países y sus activid
 
 ### Creación de una E-commerce de indumentaria deportiva - Pinkpanther
 Participé activamente en el equipo de desarrollo de una aplicación E-commerce para un cliente real en el sector de indumentaria deportiva. Esta plataforma proporciona a los usuarios una experiencia de compra completa y fluida, junto con herramientas de administración para el personal interno. [Link a la aplicación](https://pinkpantherfront.vercel.app/)
-Tecnologías utilizadas: HTML5, Javascricpt, React.js, Redux.js, Tailwind CSS, Node.js, Express.js, PostgreSQL con Sequelize, Git, Github, Trello
-Características Destacadas: 
+
+### Tecnologías utilizadas:
+HTML5, Javascricpt, React.js, Redux.js, Tailwind CSS, Node.js, Express.js, PostgreSQL con Sequelize, Git, Github, Trello
+
+### Características Destacadas: 
 * Acceso de Usuario: Autenticación, carrito de compras y notificaciones.
 * Funcionalidades de Compra: integración con Mercado Pago.
 * Gestión de Productos: panel de administración intuitivo.
