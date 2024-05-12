@@ -6,7 +6,7 @@
 
 ### Desarrollo de Aplicación Web Interactiva de Temática Countries
 
-Lideré el desarrollo de una aplicación web interactiva centrada en países y sus actividades. La misma tenía como objetivos: buscar países, visualizar la información de los mismos, filtrarlos, ordenarlos, y crear actividades turísticas. Tecnologías utilizadas: React, Redux, CSS, Node.js, Express y Sequelize.
+Desarrollé de una aplicación web interactiva centrada en países y sus actividades. Los objetivos de la misma: buscar países, visualizar la información de los mismos, filtrarlos, ordenarlos, y crear actividades turísticas. Tecnologías utilizadas: React, Redux, CSS, Node.js, Express y Sequelize.
 
 ### Creación de una E-commerce de indumentaria deportiva - Pinkpanther
 
@@ -29,7 +29,7 @@ Contribuir al desarrollo de estas aplicaciones no solo me permitió aplicar mis 
 
 ## Contacto
 
-¡No dudes en contactarme si estás interesado en colaborar en un proyecto o si tienes alguna pregunta!
+Si crees que puedo aportar valor entu proyecto o equipo de trabajo, no dudes en contactarme:
 
 - LinkedIn: https://www.linkedin.com/in/mvirginiacastillo/
 - Email: vircastillo75@gmail.com
